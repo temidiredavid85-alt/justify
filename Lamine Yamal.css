@@ -1,0 +1,10 @@
+.pulisic{
+    width: 350px;
+height:350px;
+background-color: navy;
+margin: 10px;
+}
+body{
+    display:flex;
+    justify-content: space-between;
+}
